@@ -34,6 +34,6 @@
 
 ### Contact
 - San Diego, CA
-- dtburrellmedley@gmail.com
+- dtakuecon@gmail.com
 
 ### LinkedIn: (add link later)
