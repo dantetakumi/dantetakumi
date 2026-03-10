@@ -37,4 +37,4 @@
 - dtakuecon@gmail.com
 
 ### LinkedIn
-- 
+- https://www.linkedin.com/in/dante-burrellmedley/
