@@ -36,4 +36,5 @@
 - San Diego, CA
 - dtakuecon@gmail.com
 
-### LinkedIn: (add link later)
+### LinkedIn
+- 
