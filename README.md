@@ -1,5 +1,4 @@
 ## Dante Takumi Burrellmedley
-
 - Cognitive Science student specializing in Machine Learning & Neural Computation with a strong foundation in software engineering, game development, and object-oriented programming. Passionate about building interactive systems, intelligent applications, immersive digital experiences, and game development.
 
 ### Skills
