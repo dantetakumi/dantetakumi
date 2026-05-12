@@ -16,7 +16,9 @@
 - Tools: Visual Studio, BlueJ, Git/GitHub
 - Concepts: OOP, Inheritance & Polymorphism, Algorithms, System Design, Game Physics
 
-
+### Contact
+- San Diego, CA
+- dtakuecon@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dante%20Burrellmedley-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dante-burrellmedley/)
 
 ## Featured Projects
@@ -34,13 +36,3 @@
 
 ### Java Image Collage Generator
 - Image-processing application that creates multi-panel collages using custom filters, nested loops, and pixel-level data manipulation.
-
-### Contact
-- San Diego, CA
-- dtakuecon@gmail.com
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dante-burrellmedley/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dante%20Burrellmedley-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-</p>
