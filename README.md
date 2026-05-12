@@ -36,10 +36,6 @@
 - San Diego, CA
 - dtakuecon@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dante%20Burrellmedley-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dante-burrellmedley/)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/dante-burrellmedley/">
     <img src="https://img.shields.io/badge/LinkedIn-Dante%20Burrellmedley-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
