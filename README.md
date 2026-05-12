@@ -38,6 +38,5 @@
 
 ### LinkedIn
 - https://www.linkedin.com/in/dante-burrellmedley/
-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="dante-burrellmedley" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/dante-burrellmedley?trk=profile-badge">Dante Burrellmedley</a></div>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dante%20Burrellmedley-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dante-burrellmedley/)
               
