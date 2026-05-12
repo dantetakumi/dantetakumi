@@ -1,4 +1,4 @@
-## Dante Takumi Burrellmedley
+## Dante Takumi Burrellmedley [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dante%20Burrellmedley-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dante-burrellmedley/)
 - Cognitive Science student specializing in Machine Learning & Neural Computation with a strong foundation in software engineering, game development, and object-oriented programming. Passionate about building interactive systems, intelligent applications, immersive digital experiences, and game development.
 
 ### Skills
@@ -35,7 +35,4 @@
 ### Contact
 - San Diego, CA
 - dtakuecon@gmail.com
-
-### LinkedIn
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dante%20Burrellmedley-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dante-burrellmedley/)
               
