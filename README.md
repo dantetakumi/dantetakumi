@@ -16,6 +16,12 @@
 - Tools: Visual Studio, BlueJ, Git/GitHub
 - Concepts: OOP, Inheritance & Polymorphism, Algorithms, System Design, Game Physics
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/dante-burrellmedley/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dante%20Burrellmedley-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 ## Featured Projects
 ### Unity Space Shooter
 - Arcade-style space combat game featuring player movement, projectile systems, enemy AI, collision detection, and game state management.
