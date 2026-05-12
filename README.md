@@ -20,7 +20,7 @@
 - San Diego, CA
 - dtakuecon@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dante%20Burrellmedley-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dante-burrellmedley/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dante%20Burrellmedley-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dante-burrellmedley/)
 
 ## Featured Projects
 ### Unity Space Shooter
